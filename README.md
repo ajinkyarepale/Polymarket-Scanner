@@ -1,10 +1,3 @@
-Got you — **clean, minimalistic, professional, no flashy stuff.**
-This is the style FAANG, quant firms, and top engineers prefer.
-
-Here is a **simple, elegant, minimal README.md** you can paste directly.
-
----
-
 # Polymarket High-Confidence Market Scanner
 
 A lightweight Python tool that scans Polymarket markets and identifies outcomes priced between **90% and 99%** that are **ending soon**.
@@ -103,5 +96,3 @@ Will Oscar Piastri be the 2025 Drivers Champion?,No,0.9665,2025-12-07T12:00:00Z,
 Simple tools for real-time prediction market analysis.
 
 ---
-
-If you want, I can also generate a **minimal version with even fewer sections**, or a **one-page ultra-clean README**.
